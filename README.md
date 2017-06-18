@@ -10,3 +10,5 @@ Serial Code
 Parallel Code
 
 ![alt text](https://s12.postimg.org/9t843arcd/08_Parallel.png)
+
+# Speedup = 2.43
