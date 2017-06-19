@@ -1,7 +1,11 @@
 # Prime-Factorization-of-Large-Integers
 Prime Factorization of Large Integers using C++ and openmp
 
-Input: Two 19 digit integers
+Input:
+
+9223372033854575802
+
+1383488343589784352
 
 Serial Code: 70.2401s
 
