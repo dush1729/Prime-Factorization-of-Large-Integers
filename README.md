@@ -9,10 +9,10 @@ Input:
 
 Serial Code: 70.2401s
 
-![Serial Code](https://s16.postimg.org/aukfkv3mt/08_Serial.png)
+![Serial Code]( https://drive.google.com/uc?id=1ZaVTTqdGFBAxSWKiWtmpl0MXxnCCaZ6j)
 
 Parallel Code: 28.9439s
 
-![alt text](https://s12.postimg.org/9t843arcd/08_Parallel.png)
+![alt text](https://drive.google.com/uc?id=1j3Jirwkn7jI4ADCHWz0v6x4A22DhePIa)
 
 Speedup = 2.43
