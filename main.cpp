@@ -1,4 +1,4 @@
-#include <algorithm>	// std::sort
+#include <algorithm>		// std::sort
 #include <assert.h>		// assert
 #include <iomanip>		// std::setprecision
 #include <iostream>		// std::cout
