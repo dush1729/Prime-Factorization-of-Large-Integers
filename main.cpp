@@ -60,6 +60,6 @@ int main(int argc, char **argv)
 	double serialTime = timeElapsed(number, divisorsListSerial, true);
 	assert(divisorsListParallel == divisorsListSerial);
 	std::vector <long long> primeFactorsList = primeFactorization(number, divisorsListSerial);
-	printPrimeFactorization(number, primeFactorsList);
+	//printPrimeFactorization(number, primeFactorsList);
 	printTime(number, parallelTime, serialTime);
 }
